@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Oybek.</h1>
-<h3>A passionate software engineer from Uzbekistan, currently resides in Warsaw, Poland.</h3>
+## Hi 👋, I'm Oybek.
+### A passionate software engineer from Uzbekistan, currently resides in Warsaw, Poland.</h3>
 
 - 🔭 I’m currently working on **personal projects and enrich my portfolio.**
 
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: **A cat's nose print is unique, like a human's fingerprint.**
 
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="30" height="30" /> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer">
