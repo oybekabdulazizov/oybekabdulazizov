@@ -1,5 +1,5 @@
-# Hi 👋, I'm Oybek.
-### A passionate software engineer from Uzbekistan, currently resides in Warsaw, Poland.</h3>
+# Hi there👋
+### A passionate software engineer from Uzbekistan, currently resides in Warsaw, Poland. 
 
 - 🔭 I’m currently working on **personal projects and enrich my portfolio.**
 
