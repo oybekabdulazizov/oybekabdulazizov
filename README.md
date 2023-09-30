@@ -1,4 +1,4 @@
-## Hi 👋, I'm Oybek.
+# Hi 👋, I'm Oybek.
 ### A passionate software engineer from Uzbekistan, currently resides in Warsaw, Poland.</h3>
 
 - 🔭 I’m currently working on **personal projects and enrich my portfolio.**
