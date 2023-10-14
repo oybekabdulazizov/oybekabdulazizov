@@ -1,14 +1,15 @@
 # Hi there👋
 ### A passionate software engineer from Uzbekistan, currently resides in Warsaw, Poland. 
 
-- 🔭 I’m currently working on **personal projects and enrich my portfolio.**
+These days, I am: 
+- 🔭 Working on **personal projects and enrich my portfolio.**
 
-- 🌱 I’m currently learning **back-end techs: Java, Hibernate, Spring (Boot, Data, Security), SQL, and Maven.**
+- 🌱 Learning **back-end techs: Java, Hibernate, Spring (Boot, Data, Security), SQL, and Maven.**
 
 - 👨‍💻 All of my projects are available (for now) at my <a href="https://github.com/oybekabdulazizov" target="_blank"
     rel="noreferrer">GitHub</a>
 
-- 💬 Ask me about **ReactJS, NextJS, SQL, MongoDB, NodeJS, but I am not promising you will get the answers you want 😅**
+- 💬 Ask me about **ReactJS, NextJS, SQL, MongoDB, NodeJS😅**
 
 - 📫 Email me at **oybek.tulqinovich@gmail.com**. Call me to **+48794311026**. Connect with me on <a
     href="https://www.linkedin.com/in/oybekabdulazizov/" target="_blank" rel="noreferrer">LinkedIn</a>
