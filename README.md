@@ -32,7 +32,7 @@ These days, I am:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" /> 
     </a> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs" width="30" height="30" /> 
+        <img src="https://gorzelinski.com/static/1db41e3ecd311724a15306b270d99dd9/6e87d/next-js-logo.png" alt="nextjs" width="30" height="30" /> 
     </a> 
 </p>
 
